@@ -7,7 +7,7 @@ namespace Backend.Controllers
     [ApiController]
     // Se define la Ruta base del controlador que se usará para acceder a los endpoints definidos en este controlador.
     // En este caso, la ruta base será "api/products" (dado que el nombre del controlador es "ProductsController").
-    [Route("api/[controller]")]
+    [Route("api/products")]
     public class ProductController : ControllerBase
     {
         private readonly Data.AppDbContext _context;

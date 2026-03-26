@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Backend.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/imageproducts")]
 
     public class ImageProductController : ControllerBase
     {
