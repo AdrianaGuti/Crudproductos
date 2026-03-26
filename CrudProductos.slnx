@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Backend.Tests/Backend.Tests.csproj" Id="8af0c30d-ed5d-4529-9123-bb8ecee9677a" />
   <Project Path="Backend/Backend.csproj" />
 </Solution>
